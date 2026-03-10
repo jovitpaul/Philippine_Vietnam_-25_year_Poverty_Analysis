@@ -1,5 +1,4 @@
 # Philippine_Vietnam_25_year_Poverty_Analysis
-Exploring the 25 years Effect of Manufacturing and Services for Poverty Reduction for PH and VN 
 # The Service-Led Staircase: Structural Transformation in PH vs. VN
 ### A Comparative Regression Analysis of Poverty Reduction Efficiency
 
@@ -38,5 +37,5 @@ I ran two separate OLS models to compare the "Engines of Growth":
 3. Run `regression_analysis.py` to view the OLS summary.
 
 ---
-**Author:** [Your Name]
+**Author:** Jovit Paul B. Magadan
 **Background:** MBA / Agricultural Engineer
